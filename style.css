@@ -108,7 +108,7 @@ color:#ffffff;
 /*home*/
 .home{
 	min-height: 100vh;
-	background-image:url("https://sf.co.ua/13/08/wallpaper-2967491.jpg");
+	background-image:url("https://github.com/agrani1010/images/raw/master/109547.jpg");
 	background-size:cover;
 	background-position: center;
 	padding:15px;
@@ -131,7 +131,7 @@ max-width:75%;
 padding-left:35px;
 }
 .home .home-content .block h4{
-color:#000000;
+color:#ffffff;
 font-size:30px;
 font-weight:500;
 margin:0;
