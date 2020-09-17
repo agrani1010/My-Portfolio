@@ -522,6 +522,7 @@ letter-spacing: 2px;
 .work .img img{
 	width:100%;
 	display: block;
+	background: #ffffff;
 
 }
 .work .work-content .block{
