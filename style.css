@@ -518,11 +518,12 @@ letter-spacing: 2px;
 	flex:0 0 100%;
 	max-width:100%;
 	padding-top:10px;
+	background-color: #ffffff;
 }
 .work .img img{
 	width:100%;
 	display: block;
-	background: #ffffff;
+	background-color: #ffffff;
 
 }
 .work .work-content .block{
