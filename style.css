@@ -517,13 +517,12 @@ letter-spacing: 2px;
 .work .img{
 	flex:0 0 50%;
 	max-width:50%;
-	padding-top:10px;
-	background-color: #ffffff;
+	
 }
 .work .img img{
 	width:100%;
 	display: block;
-	background-color: #ffffff;
+	
 
 }
 .work .work-content .block{
